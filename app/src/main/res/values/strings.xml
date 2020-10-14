@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ini_detail">Ini Detail</string>
+    <string name="ini_about">Ini About</string>
+</resources>
